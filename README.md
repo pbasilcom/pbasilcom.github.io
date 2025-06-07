@@ -1,4 +1,4 @@
-## Domains of interests:
+## Domains of interest:
 
 ### Cybersecurity
 * Vulnerable driver detection tools
