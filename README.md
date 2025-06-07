@@ -20,7 +20,6 @@
 * Procedural sound generation
 
 ##### Contacts:
-https://www.linkedin.com/in/basil-p
-
+[linkedin](<https://www.linkedin.com/in/basil-p>)  
 me[at]pbasil.com
 
