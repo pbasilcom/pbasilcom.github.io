@@ -23,3 +23,4 @@
 [linkedin](<https://www.linkedin.com/in/basil-p>)  
 me[at]pbasil.com
 
+<link rel="shortcut icon" type="image/ico" href="favicon.ico">  
